@@ -9,6 +9,9 @@ This organization hosts all of our developer demos and template repos (see READM
 - [essential-svelte-esm](https://github.com/typhonjs-fvtt-demo/essential-svelte-esm) (ESM essential demos / Foundry integration)
 - [template-svelte-esm](https://github.com/typhonjs-fvtt-demo/template-svelte-esm) (bare bones ESM template repo to create a new module).
 
+Unified API documentation for TRL runtime & standard libraries is available here:
+https://typhonjs-fvtt-lib.github.io/api-docs/
+
 Experimental / exploratory:
 - [trl-demo-webcomponent](https://github.com/typhonjs-fvtt-demo/trl-demo-webcomponent) (reactive web components!)
 
