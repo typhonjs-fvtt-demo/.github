@@ -2,7 +2,7 @@
 
 We provide next-gen tooling for the [Foundry VTT](https://foundryvtt.com/) developer community and release a collection of modules aimed at making open world style campaign 
 management easier in Foundry. Please come join us on Discord on the [![Discord](https://img.shields.io/discord/737953117999726592?label=TyphonJS&style=plastic)](https://typhonjs.io/discord/) 
-server to chat about Foundry VTT development and our open world modules. Be sure to signup for various roles for topics you are interested in such as: `Developer` & `Quest Giver` 
+server to chat about Foundry VTT development and our open world modules. Be sure to signup for various roles for topics you are interested in such as: `Developer`
 to keep updated on topics that interest you.
 
 This organization hosts all of our developer demos and template repos (see READMEs for installation instructions):
