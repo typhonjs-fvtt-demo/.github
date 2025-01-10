@@ -11,7 +11,7 @@ This organization hosts all of our developer demos and template repos (see READM
 
 
 - [template-svelte-ts-league](https://github.com/typhonjs-fvtt-demo/template-svelte-ts-league) (bare bones Typescript (League) template repo to create a new module).
-- [template-svelte-ts-pf2e](https://github.com/typhonjs-fvtt-demo/template-svelte-ts-league) (bare bones Typescript (PF2E) template repo to create a new module).
+- [template-svelte-ts-pf2e](https://github.com/typhonjs-fvtt-demo/template-svelte-ts-pf2e) (bare bones Typescript (PF2E) template repo to create a new module).
 
 
 Unified API documentation for TRL runtime & standard libraries is available here:
